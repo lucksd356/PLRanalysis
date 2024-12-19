@@ -1,0 +1,2 @@
+# PLRanalysis
+Parametric linear regession
